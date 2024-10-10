@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * @author Mehrdad Sabetzadeh, University of Ottawa, Professor
- * @author Emilt Jette, University of Ottawa, Student 
+ * @author Emily Jette, University of Ottawa, Student 
  */
 
 public class ParkingLot {
